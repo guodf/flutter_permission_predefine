@@ -1,0 +1,13 @@
+name: flutter_permission_predefine
+description: A command line tool simplifies the addition of plaforms permissions.
+version: 0.0.1
+maintainer: guodf(guo_net_win@live.com)
+homepage: https://github.com/guodf/flutter_permission_predefine.git
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  path: ^1.8.0
+  yaml: ^3.1.0
+  xml: ^5.1.2
